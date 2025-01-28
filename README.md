@@ -1,2 +1,2 @@
 # Forensic-Investigation
-the script commit investigation on a given file using tools like volatality and binwalk and returns the returns the results
+The Script Commit Investigation On A Given File Using Tools Like Volatality And Binwalk Then Returns The Results
